@@ -1,0 +1,3802 @@
+[
+  {
+    "temporada": "2025-26",
+    "jornada": 1,
+    "fecha": "VIE 15.08.2025",
+    "hora": "19:00",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": "1",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 1,
+    "fecha": "VIE 15.08.2025",
+    "hora": "21:30",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 1,
+    "fecha": "SAB 16.08.2025",
+    "hora": "19:30",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": "0",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 1,
+    "fecha": "SAB 16.08.2025",
+    "hora": "21:30",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "Levante UD",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 1,
+    "fecha": "SAB 16.08.2025",
+    "hora": "21:30",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 1,
+    "fecha": "DOM 17.08.2025",
+    "hora": "17:00",
+    "equipo_local": "Celta",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": "0",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 1,
+    "fecha": "DOM 17.08.2025",
+    "hora": "19:30",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": "3",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 1,
+    "fecha": "DOM 17.08.2025",
+    "hora": "21:30",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 1,
+    "fecha": "LUN 18.08.2025",
+    "hora": "21:00",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "Real Betis",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 1,
+    "fecha": "MAR 19.08.2025",
+    "hora": "21:00",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 2,
+    "fecha": "VIE 22.08.2025",
+    "hora": "21:30",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 2,
+    "fecha": "SAB 23.08.2025",
+    "hora": "17:00",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Celta",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 2,
+    "fecha": "SAB 23.08.2025",
+    "hora": "19:30",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "Elche CF",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 2,
+    "fecha": "SAB 23.08.2025",
+    "hora": "21:30",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": "2",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 2,
+    "fecha": "DOM 24.08.2025",
+    "hora": "17:00",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 2,
+    "fecha": "DOM 24.08.2025",
+    "hora": "19:30",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": "2",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 2,
+    "fecha": "DOM 24.08.2025",
+    "hora": "19:30",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "Girona FC",
+    "goles_local": "5",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 2,
+    "fecha": "DOM 24.08.2025",
+    "hora": "21:30",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": "0",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 2,
+    "fecha": "LUN 25.08.2025",
+    "hora": "19:30",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 2,
+    "fecha": "LUN 25.08.2025",
+    "hora": "21:30",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": "1",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 3,
+    "fecha": "VIE 29.08.2025",
+    "hora": "19:30",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "Levante UD",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 3,
+    "fecha": "VIE 29.08.2025",
+    "hora": "21:30",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": "3",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 3,
+    "fecha": "SAB 30.08.2025",
+    "hora": "17:00",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 3,
+    "fecha": "SAB 30.08.2025",
+    "hora": "19:00",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 3,
+    "fecha": "SAB 30.08.2025",
+    "hora": "19:30",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": "0",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 3,
+    "fecha": "SAB 30.08.2025",
+    "hora": "21:30",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 3,
+    "fecha": "DOM 31.08.2025",
+    "hora": "17:00",
+    "equipo_local": "Celta",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 3,
+    "fecha": "DOM 31.08.2025",
+    "hora": "19:00",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": "1",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 3,
+    "fecha": "DOM 31.08.2025",
+    "hora": "19:30",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 3,
+    "fecha": "DOM 31.08.2025",
+    "hora": "21:30",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 4,
+    "fecha": "VIE 12.09.2025",
+    "hora": "21:00",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "Elche CF",
+    "goles_local": "2",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 4,
+    "fecha": "SAB 13.09.2025",
+    "hora": "14:00",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 4,
+    "fecha": "SAB 13.09.2025",
+    "hora": "16:15",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": "1",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 4,
+    "fecha": "SAB 13.09.2025",
+    "hora": "18:30",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": "0",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 4,
+    "fecha": "SAB 13.09.2025",
+    "hora": "21:00",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 4,
+    "fecha": "DOM 14.09.2025",
+    "hora": "14:00",
+    "equipo_local": "Celta",
+    "equipo_visitante": "Girona FC",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 4,
+    "fecha": "DOM 14.09.2025",
+    "hora": "16:15",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "Real Betis",
+    "goles_local": "2",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 4,
+    "fecha": "DOM 14.09.2025",
+    "hora": "18:30",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 4,
+    "fecha": "DOM 14.09.2025",
+    "hora": "21:00",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": "6",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 4,
+    "fecha": "LUN 15.09.2025",
+    "hora": "21:00",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": "3",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 5,
+    "fecha": "VIE 19.09.2025",
+    "hora": "21:00",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": "3",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 5,
+    "fecha": "SAB 20.09.2025",
+    "hora": "14:00",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "Levante UD",
+    "goles_local": "0",
+    "goles_visitante": "4"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 5,
+    "fecha": "SAB 20.09.2025",
+    "hora": "16:15",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 5,
+    "fecha": "SAB 20.09.2025",
+    "hora": "18:30",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": "1",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 5,
+    "fecha": "SAB 20.09.2025",
+    "hora": "18:30",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 5,
+    "fecha": "SAB 20.09.2025",
+    "hora": "21:00",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 5,
+    "fecha": "DOM 21.09.2025",
+    "hora": "14:00",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "Celta",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 5,
+    "fecha": "DOM 21.09.2025",
+    "hora": "16:15",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 5,
+    "fecha": "DOM 21.09.2025",
+    "hora": "18:30",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 5,
+    "fecha": "DOM 21.09.2025",
+    "hora": "21:00",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": "3",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 6,
+    "fecha": "MIE 27.08.2025",
+    "hora": "21:00",
+    "equipo_local": "Celta",
+    "equipo_visitante": "Real Betis",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 6,
+    "fecha": "MAR 23.09.2025",
+    "hora": "19:00",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "Girona FC",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 6,
+    "fecha": "MAR 23.09.2025",
+    "hora": "19:00",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": "2",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 6,
+    "fecha": "MAR 23.09.2025",
+    "hora": "21:30",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": "1",
+    "goles_visitante": "4"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 6,
+    "fecha": "MAR 23.09.2025",
+    "hora": "21:30",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": "1",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 6,
+    "fecha": "MIE 24.09.2025",
+    "hora": "19:00",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 6,
+    "fecha": "MIE 24.09.2025",
+    "hora": "21:30",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": "3",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 6,
+    "fecha": "MIE 24.09.2025",
+    "hora": "21:30",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 6,
+    "fecha": "JUE 25.09.2025",
+    "hora": "19:30",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Elche CF",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 6,
+    "fecha": "JUE 25.09.2025",
+    "hora": "21:30",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": "1",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 7,
+    "fecha": "VIE 26.09.2025",
+    "hora": "21:00",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": "0",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 7,
+    "fecha": "SAB 27.09.2025",
+    "hora": "14:00",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "Levante UD",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 7,
+    "fecha": "SAB 27.09.2025",
+    "hora": "16:15",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": "5",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 7,
+    "fecha": "SAB 27.09.2025",
+    "hora": "18:30",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 7,
+    "fecha": "SAB 27.09.2025",
+    "hora": "21:00",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 7,
+    "fecha": "DOM 28.09.2025",
+    "hora": "14:00",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": "0",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 7,
+    "fecha": "DOM 28.09.2025",
+    "hora": "16:15",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "Celta",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 7,
+    "fecha": "DOM 28.09.2025",
+    "hora": "18:30",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 7,
+    "fecha": "DOM 28.09.2025",
+    "hora": "21:00",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 7,
+    "fecha": "MAR 30.09.2025",
+    "hora": "20:00",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": "1",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 8,
+    "fecha": "VIE 03.10.2025",
+    "hora": "21:00",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 8,
+    "fecha": "SAB 04.10.2025",
+    "hora": "14:00",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "Levante UD",
+    "goles_local": "0",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 8,
+    "fecha": "SAB 04.10.2025",
+    "hora": "16:15",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 8,
+    "fecha": "SAB 04.10.2025",
+    "hora": "18:30",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 8,
+    "fecha": "SAB 04.10.2025",
+    "hora": "21:00",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": "3",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 8,
+    "fecha": "DOM 05.10.2025",
+    "hora": "14:00",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "Elche CF",
+    "goles_local": "3",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 8,
+    "fecha": "DOM 05.10.2025",
+    "hora": "16:15",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": "4",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 8,
+    "fecha": "DOM 05.10.2025",
+    "hora": "18:30",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Real Betis",
+    "goles_local": "1",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 8,
+    "fecha": "DOM 05.10.2025",
+    "hora": "18:30",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": "0",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 8,
+    "fecha": "DOM 05.10.2025",
+    "hora": "21:00",
+    "equipo_local": "Celta",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 9,
+    "fecha": "VIE 17.10.2025",
+    "hora": "21:00",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": "0",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 9,
+    "fecha": "SAB 18.10.2025",
+    "hora": "14:00",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": "1",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 9,
+    "fecha": "SAB 18.10.2025",
+    "hora": "16:15",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Girona FC",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 9,
+    "fecha": "SAB 18.10.2025",
+    "hora": "18:30",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "Real Betis",
+    "goles_local": "2",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 9,
+    "fecha": "SAB 18.10.2025",
+    "hora": "21:00",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 9,
+    "fecha": "DOM 19.10.2025",
+    "hora": "14:00",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": "0",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 9,
+    "fecha": "DOM 19.10.2025",
+    "hora": "16:15",
+    "equipo_local": "Celta",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 9,
+    "fecha": "DOM 19.10.2025",
+    "hora": "18:30",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": "0",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 9,
+    "fecha": "DOM 19.10.2025",
+    "hora": "21:00",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": "0",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 9,
+    "fecha": "LUN 20.10.2025",
+    "hora": "21:00",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": "0",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 10,
+    "fecha": "VIE 24.10.2025",
+    "hora": "21:00",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 10,
+    "fecha": "SAB 25.10.2025",
+    "hora": "14:00",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": "3",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 10,
+    "fecha": "SAB 25.10.2025",
+    "hora": "16:15",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Elche CF",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 10,
+    "fecha": "SAB 25.10.2025",
+    "hora": "18:30",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": "0",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 10,
+    "fecha": "SAB 25.10.2025",
+    "hora": "21:00",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": "0",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 10,
+    "fecha": "DOM 26.10.2025",
+    "hora": "14:00",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Levante UD",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 10,
+    "fecha": "DOM 26.10.2025",
+    "hora": "16:15",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 10,
+    "fecha": "DOM 26.10.2025",
+    "hora": "18:30",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Celta",
+    "goles_local": "2",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 10,
+    "fecha": "DOM 26.10.2025",
+    "hora": "21:00",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 10,
+    "fecha": "LUN 27.10.2025",
+    "hora": "21:00",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": "0",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 11,
+    "fecha": "VIE 31.10.2025",
+    "hora": "21:00",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "Girona FC",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 11,
+    "fecha": "SAB 01.11.2025",
+    "hora": "14:00",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": "4",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 11,
+    "fecha": "SAB 01.11.2025",
+    "hora": "16:15",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": "3",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 11,
+    "fecha": "SAB 01.11.2025",
+    "hora": "18:30",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": "3",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 11,
+    "fecha": "SAB 01.11.2025",
+    "hora": "21:00",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": "4",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 11,
+    "fecha": "DOM 02.11.2025",
+    "hora": "14:00",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "Celta",
+    "goles_local": "1",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 11,
+    "fecha": "DOM 02.11.2025",
+    "hora": "16:15",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 11,
+    "fecha": "DOM 02.11.2025",
+    "hora": "18:30",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Elche CF",
+    "goles_local": "3",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 11,
+    "fecha": "DOM 02.11.2025",
+    "hora": "21:00",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": "3",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 11,
+    "fecha": "LUN 03.11.2025",
+    "hora": "21:00",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": "0",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 12,
+    "fecha": "VIE 07.11.2025",
+    "hora": "21:00",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 12,
+    "fecha": "SAB 08.11.2025",
+    "hora": "14:00",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 12,
+    "fecha": "SAB 08.11.2025",
+    "hora": "16:15",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 12,
+    "fecha": "SAB 08.11.2025",
+    "hora": "18:30",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "Levante UD",
+    "goles_local": "3",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 12,
+    "fecha": "SAB 08.11.2025",
+    "hora": "21:00",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": "0",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 12,
+    "fecha": "DOM 09.11.2025",
+    "hora": "14:00",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 12,
+    "fecha": "DOM 09.11.2025",
+    "hora": "16:15",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": "0",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 12,
+    "fecha": "DOM 09.11.2025",
+    "hora": "18:30",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "Real Betis",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 12,
+    "fecha": "DOM 09.11.2025",
+    "hora": "18:30",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 12,
+    "fecha": "DOM 09.11.2025",
+    "hora": "21:00",
+    "equipo_local": "Celta",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": "2",
+    "goles_visitante": "4"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 13,
+    "fecha": "VIE 21.11.2025",
+    "hora": "21:00",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "Levante UD",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 13,
+    "fecha": "SAB 22.11.2025",
+    "hora": "14:00",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "Celta",
+    "goles_local": "0",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 13,
+    "fecha": "SAB 22.11.2025",
+    "hora": "16:15",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": "4",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 13,
+    "fecha": "SAB 22.11.2025",
+    "hora": "18:30",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": "1",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 13,
+    "fecha": "SAB 22.11.2025",
+    "hora": "21:00",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 13,
+    "fecha": "DOM 23.11.2025",
+    "hora": "14:00",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": "0",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 13,
+    "fecha": "DOM 23.11.2025",
+    "hora": "16:15",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "Girona FC",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 13,
+    "fecha": "DOM 23.11.2025",
+    "hora": "18:30",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": "0",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 13,
+    "fecha": "DOM 23.11.2025",
+    "hora": "21:00",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": "2",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 13,
+    "fecha": "LUN 24.11.2025",
+    "hora": "21:00",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 14,
+    "fecha": "VIE 28.11.2025",
+    "hora": "21:00",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "Elche CF",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 14,
+    "fecha": "SAB 29.11.2025",
+    "hora": "14:00",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": "2",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 14,
+    "fecha": "SAB 29.11.2025",
+    "hora": "16:15",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": "3",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 14,
+    "fecha": "SAB 29.11.2025",
+    "hora": "18:30",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": "0",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 14,
+    "fecha": "SAB 29.11.2025",
+    "hora": "21:00",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 14,
+    "fecha": "DOM 30.11.2025",
+    "hora": "14:00",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": "2",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 14,
+    "fecha": "DOM 30.11.2025",
+    "hora": "16:15",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "Real Betis",
+    "goles_local": "0",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 14,
+    "fecha": "DOM 30.11.2025",
+    "hora": "18:30",
+    "equipo_local": "Celta",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": "0",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 14,
+    "fecha": "DOM 30.11.2025",
+    "hora": "21:00",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 14,
+    "fecha": "LUN 01.12.2025",
+    "hora": "21:00",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 15,
+    "fecha": "VIE 05.12.2025",
+    "hora": "21:00",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": "0",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 15,
+    "fecha": "SAB 06.12.2025",
+    "hora": "14:00",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 15,
+    "fecha": "SAB 06.12.2025",
+    "hora": "16:15",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 15,
+    "fecha": "SAB 06.12.2025",
+    "hora": "18:30",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": "3",
+    "goles_visitante": "5"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 15,
+    "fecha": "SAB 06.12.2025",
+    "hora": "21:00",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 15,
+    "fecha": "DOM 07.12.2025",
+    "hora": "14:00",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "Girona FC",
+    "goles_local": "3",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 15,
+    "fecha": "DOM 07.12.2025",
+    "hora": "16:15",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 15,
+    "fecha": "DOM 07.12.2025",
+    "hora": "18:30",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 15,
+    "fecha": "DOM 07.12.2025",
+    "hora": "21:00",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "Celta",
+    "goles_local": "0",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 15,
+    "fecha": "LUN 08.12.2025",
+    "hora": "21:00",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Levante UD",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 16,
+    "fecha": "VIE 12.12.2025",
+    "hora": "21:00",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "Girona FC",
+    "goles_local": "1",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 16,
+    "fecha": "SAB 13.12.2025",
+    "hora": "14:00",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 16,
+    "fecha": "SAB 13.12.2025",
+    "hora": "16:15",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Elche CF",
+    "goles_local": "3",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 16,
+    "fecha": "SAB 13.12.2025",
+    "hora": "18:30",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 16,
+    "fecha": "SAB 13.12.2025",
+    "hora": "21:00",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": "0",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 16,
+    "fecha": "DOM 14.12.2025",
+    "hora": "14:00",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": "4",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 16,
+    "fecha": "DOM 14.12.2025",
+    "hora": "16:15",
+    "equipo_local": "Celta",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 16,
+    "fecha": "DOM 14.12.2025",
+    "hora": "21:00",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": "1",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 16,
+    "fecha": "LUN 15.12.2025",
+    "hora": "21:00",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "Real Betis",
+    "goles_local": "0",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 16,
+    "fecha": "MIE 18.02.2026",
+    "hora": "20:00",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 17,
+    "fecha": "VIE 19.12.2025",
+    "hora": "21:00",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 17,
+    "fecha": "SAB 20.12.2025",
+    "hora": "14:00",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "Celta",
+    "goles_local": "0",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 17,
+    "fecha": "SAB 20.12.2025",
+    "hora": "16:15",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 17,
+    "fecha": "SAB 20.12.2025",
+    "hora": "18:30",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": "3",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 17,
+    "fecha": "SAB 20.12.2025",
+    "hora": "21:00",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 17,
+    "fecha": "DOM 21.12.2025",
+    "hora": "14:00",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": "0",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 17,
+    "fecha": "DOM 21.12.2025",
+    "hora": "16:15",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": "0",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 17,
+    "fecha": "DOM 21.12.2025",
+    "hora": "18:30",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": "4",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 17,
+    "fecha": "DOM 21.12.2025",
+    "hora": "21:00",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": "4",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 17,
+    "fecha": "LUN 22.12.2025",
+    "hora": "21:00",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": "1",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 18,
+    "fecha": "VIE 02.01.2026",
+    "hora": "21:00",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 18,
+    "fecha": "SAB 03.01.2026",
+    "hora": "14:00",
+    "equipo_local": "Celta",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": "4",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 18,
+    "fecha": "SAB 03.01.2026",
+    "hora": "16:15",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 18,
+    "fecha": "SAB 03.01.2026",
+    "hora": "18:30",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": "1",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 18,
+    "fecha": "SAB 03.01.2026",
+    "hora": "21:00",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": "0",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 18,
+    "fecha": "DOM 04.01.2026",
+    "hora": "14:00",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "Levante UD",
+    "goles_local": "0",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 18,
+    "fecha": "DOM 04.01.2026",
+    "hora": "16:15",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "Real Betis",
+    "goles_local": "5",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 18,
+    "fecha": "DOM 04.01.2026",
+    "hora": "18:30",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 18,
+    "fecha": "DOM 04.01.2026",
+    "hora": "18:30",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Girona FC",
+    "goles_local": "1",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 18,
+    "fecha": "DOM 04.01.2026",
+    "hora": "21:00",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 19,
+    "fecha": "MAR 02.12.2025",
+    "hora": "21:00",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": "3",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 19,
+    "fecha": "MIE 03.12.2025",
+    "hora": "19:00",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": "0",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 19,
+    "fecha": "VIE 09.01.2026",
+    "hora": "21:00",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": "1",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 19,
+    "fecha": "SAB 10.01.2026",
+    "hora": "14:00",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "Real Betis",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 19,
+    "fecha": "SAB 10.01.2026",
+    "hora": "16:15",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": "3",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 19,
+    "fecha": "SAB 10.01.2026",
+    "hora": "18:30",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 19,
+    "fecha": "SAB 10.01.2026",
+    "hora": "21:00",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "Elche CF",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 19,
+    "fecha": "DOM 11.01.2026",
+    "hora": "14:00",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 19,
+    "fecha": "DOM 11.01.2026",
+    "hora": "16:15",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 19,
+    "fecha": "LUN 12.01.2026",
+    "hora": "21:00",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "Celta",
+    "goles_local": "0",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 20,
+    "fecha": "VIE 16.01.2026",
+    "hora": "21:00",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Girona FC",
+    "goles_local": "0",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 20,
+    "fecha": "SAB 17.01.2026",
+    "hora": "14:00",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "Levante UD",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 20,
+    "fecha": "SAB 17.01.2026",
+    "hora": "16:15",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": "3",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 20,
+    "fecha": "SAB 17.01.2026",
+    "hora": "18:30",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": "3",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 20,
+    "fecha": "SAB 17.01.2026",
+    "hora": "21:00",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": "2",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 20,
+    "fecha": "DOM 18.01.2026",
+    "hora": "14:00",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": "0",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 20,
+    "fecha": "DOM 18.01.2026",
+    "hora": "16:15",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": "1",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 20,
+    "fecha": "DOM 18.01.2026",
+    "hora": "18:30",
+    "equipo_local": "Celta",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": "3",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 20,
+    "fecha": "DOM 18.01.2026",
+    "hora": "21:00",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 20,
+    "fecha": "LUN 19.01.2026",
+    "hora": "21:00",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": "2",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 21,
+    "fecha": "VIE 23.01.2026",
+    "hora": "21:00",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "Elche CF",
+    "goles_local": "3",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 21,
+    "fecha": "SAB 24.01.2026",
+    "hora": "14:00",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": "1",
+    "goles_visitante": "3"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 21,
+    "fecha": "SAB 24.01.2026",
+    "hora": "16:15",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": "3",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 21,
+    "fecha": "SAB 24.01.2026",
+    "hora": "18:30",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 21,
+    "fecha": "SAB 24.01.2026",
+    "hora": "21:00",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": "0",
+    "goles_visitante": "2"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 21,
+    "fecha": "DOM 25.01.2026",
+    "hora": "14:00",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": "3",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 21,
+    "fecha": "DOM 25.01.2026",
+    "hora": "16:15",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": "3",
+    "goles_visitante": "0"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 21,
+    "fecha": "DOM 25.01.2026",
+    "hora": "18:30",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "Celta",
+    "goles_local": "3",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 21,
+    "fecha": "DOM 25.01.2026",
+    "hora": "21:00",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "Real Betis",
+    "goles_local": "2",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 21,
+    "fecha": "LUN 26.01.2026",
+    "hora": "21:00",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": "1",
+    "goles_visitante": "1"
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 22,
+    "fecha": "VIE 30.01.2026",
+    "hora": "21:00",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 22,
+    "fecha": "SAB 31.01.2026",
+    "hora": "14:00",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "Girona FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 22,
+    "fecha": "SAB 31.01.2026",
+    "hora": "16:15",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 22,
+    "fecha": "SAB 31.01.2026",
+    "hora": "18:30",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 22,
+    "fecha": "SAB 31.01.2026",
+    "hora": "21:00",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 22,
+    "fecha": "DOM 01.02.2026",
+    "hora": "14:00",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 22,
+    "fecha": "DOM 01.02.2026",
+    "hora": "16:15",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 22,
+    "fecha": "DOM 01.02.2026",
+    "hora": "18:30",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "Celta",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 22,
+    "fecha": "DOM 01.02.2026",
+    "hora": "21:00",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 22,
+    "fecha": "LUN 02.02.2026",
+    "hora": "21:00",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 23,
+    "fecha": "VIE 06.02.2026",
+    "hora": "21:00",
+    "equipo_local": "Celta",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 23,
+    "fecha": "SAB 07.02.2026",
+    "hora": "14:00",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 23,
+    "fecha": "SAB 07.02.2026",
+    "hora": "16:15",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 23,
+    "fecha": "SAB 07.02.2026",
+    "hora": "18:30",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "Girona FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 23,
+    "fecha": "SAB 07.02.2026",
+    "hora": "21:00",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "Elche CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 23,
+    "fecha": "DOM 08.02.2026",
+    "hora": "14:00",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 23,
+    "fecha": "DOM 08.02.2026",
+    "hora": "16:15",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "Levante UD",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 23,
+    "fecha": "DOM 08.02.2026",
+    "hora": "18:30",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "Real Betis",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 23,
+    "fecha": "DOM 08.02.2026",
+    "hora": "21:00",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 23,
+    "fecha": "LUN 09.02.2026",
+    "hora": "21:00",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 24,
+    "fecha": "DOM 15.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 24,
+    "fecha": "DOM 15.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 24,
+    "fecha": "DOM 15.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 24,
+    "fecha": "DOM 15.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 24,
+    "fecha": "DOM 15.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 24,
+    "fecha": "DOM 15.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 24,
+    "fecha": "DOM 15.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 24,
+    "fecha": "DOM 15.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 24,
+    "fecha": "DOM 15.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Real Betis",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 24,
+    "fecha": "DOM 15.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Celta",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 25,
+    "fecha": "DOM 22.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "Girona FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 25,
+    "fecha": "DOM 22.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "Elche CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 25,
+    "fecha": "DOM 22.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 25,
+    "fecha": "DOM 22.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Levante UD",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 25,
+    "fecha": "DOM 22.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 25,
+    "fecha": "DOM 22.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Celta",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 25,
+    "fecha": "DOM 22.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 25,
+    "fecha": "DOM 22.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 25,
+    "fecha": "DOM 22.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 25,
+    "fecha": "DOM 22.02.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 26,
+    "fecha": "DOM 01.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 26,
+    "fecha": "DOM 01.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 26,
+    "fecha": "DOM 01.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 26,
+    "fecha": "DOM 01.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 26,
+    "fecha": "DOM 01.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 26,
+    "fecha": "DOM 01.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 26,
+    "fecha": "DOM 01.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 26,
+    "fecha": "DOM 01.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "Celta",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 26,
+    "fecha": "DOM 01.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 26,
+    "fecha": "DOM 01.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 27,
+    "fecha": "DOM 08.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 27,
+    "fecha": "DOM 08.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 27,
+    "fecha": "DOM 08.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Celta",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 27,
+    "fecha": "DOM 08.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 27,
+    "fecha": "DOM 08.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 27,
+    "fecha": "DOM 08.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "Real Betis",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 27,
+    "fecha": "DOM 08.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "Elche CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 27,
+    "fecha": "DOM 08.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "Girona FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 27,
+    "fecha": "DOM 08.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 27,
+    "fecha": "DOM 08.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 28,
+    "fecha": "DOM 15.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 28,
+    "fecha": "DOM 15.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 28,
+    "fecha": "DOM 15.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 28,
+    "fecha": "DOM 15.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "Celta",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 28,
+    "fecha": "DOM 15.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 28,
+    "fecha": "DOM 15.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 28,
+    "fecha": "DOM 15.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "Elche CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 28,
+    "fecha": "DOM 15.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 28,
+    "fecha": "DOM 15.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "Levante UD",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 28,
+    "fecha": "DOM 15.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 29,
+    "fecha": "DOM 22.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "Real Betis",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 29,
+    "fecha": "DOM 22.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 29,
+    "fecha": "DOM 22.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 29,
+    "fecha": "DOM 22.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 29,
+    "fecha": "DOM 22.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 29,
+    "fecha": "DOM 22.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 29,
+    "fecha": "DOM 22.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Celta",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 29,
+    "fecha": "DOM 22.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 29,
+    "fecha": "DOM 22.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Girona FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 29,
+    "fecha": "DOM 22.03.2026",
+    "hora": "-- : --",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 30,
+    "fecha": "DOM 05.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 30,
+    "fecha": "DOM 05.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 30,
+    "fecha": "DOM 05.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 30,
+    "fecha": "DOM 05.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 30,
+    "fecha": "DOM 05.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 30,
+    "fecha": "DOM 05.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 30,
+    "fecha": "DOM 05.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 30,
+    "fecha": "DOM 05.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "Celta",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 30,
+    "fecha": "DOM 05.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "Elche CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 30,
+    "fecha": "DOM 05.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "Levante UD",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 31,
+    "fecha": "DOM 12.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 31,
+    "fecha": "DOM 12.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 31,
+    "fecha": "DOM 12.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Celta",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 31,
+    "fecha": "DOM 12.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 31,
+    "fecha": "DOM 12.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 31,
+    "fecha": "DOM 12.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 31,
+    "fecha": "DOM 12.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 31,
+    "fecha": "DOM 12.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Real Betis",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 31,
+    "fecha": "DOM 12.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 31,
+    "fecha": "DOM 12.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "Girona FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 32,
+    "fecha": "DOM 19.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 32,
+    "fecha": "DOM 19.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 32,
+    "fecha": "DOM 19.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Levante UD",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 32,
+    "fecha": "DOM 19.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 32,
+    "fecha": "DOM 19.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 32,
+    "fecha": "DOM 19.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 32,
+    "fecha": "DOM 19.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 32,
+    "fecha": "DOM 19.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "Celta",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 32,
+    "fecha": "DOM 19.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "Elche CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 32,
+    "fecha": "DOM 19.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "Girona FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 33,
+    "fecha": "MIE 22.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 33,
+    "fecha": "MIE 22.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Celta",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 33,
+    "fecha": "MIE 22.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 33,
+    "fecha": "MIE 22.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 33,
+    "fecha": "MIE 22.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 33,
+    "fecha": "MIE 22.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 33,
+    "fecha": "MIE 22.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 33,
+    "fecha": "MIE 22.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "Real Betis",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 33,
+    "fecha": "MIE 22.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 33,
+    "fecha": "MIE 22.04.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 34,
+    "fecha": "DOM 03.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 34,
+    "fecha": "DOM 03.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 34,
+    "fecha": "DOM 03.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Celta",
+    "equipo_visitante": "Elche CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 34,
+    "fecha": "DOM 03.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 34,
+    "fecha": "DOM 03.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 34,
+    "fecha": "DOM 03.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 34,
+    "fecha": "DOM 03.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 34,
+    "fecha": "DOM 03.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 34,
+    "fecha": "DOM 03.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "Levante UD",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 34,
+    "fecha": "DOM 03.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 35,
+    "fecha": "DOM 10.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 35,
+    "fecha": "DOM 10.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "Celta",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 35,
+    "fecha": "DOM 10.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 35,
+    "fecha": "DOM 10.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 35,
+    "fecha": "DOM 10.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 35,
+    "fecha": "DOM 10.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 35,
+    "fecha": "DOM 10.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "Real Betis",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 35,
+    "fecha": "DOM 10.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 35,
+    "fecha": "DOM 10.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 35,
+    "fecha": "DOM 10.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "Girona FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 36,
+    "fecha": "MIE 13.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 36,
+    "fecha": "MIE 13.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "Elche CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 36,
+    "fecha": "MIE 13.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Celta",
+    "equipo_visitante": "Levante UD",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 36,
+    "fecha": "MIE 13.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 36,
+    "fecha": "MIE 13.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 36,
+    "fecha": "MIE 13.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 36,
+    "fecha": "MIE 13.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 36,
+    "fecha": "MIE 13.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 36,
+    "fecha": "MIE 13.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 36,
+    "fecha": "MIE 13.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 37,
+    "fecha": "DOM 17.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Athletic Club",
+    "equipo_visitante": "Celta",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 37,
+    "fecha": "DOM 17.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Atlético de Madrid",
+    "equipo_visitante": "Girona FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 37,
+    "fecha": "DOM 17.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "FC Barcelona",
+    "equipo_visitante": "Real Betis",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 37,
+    "fecha": "DOM 17.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Elche CF",
+    "equipo_visitante": "Getafe CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 37,
+    "fecha": "DOM 17.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Levante UD",
+    "equipo_visitante": "RCD Mallorca",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 37,
+    "fecha": "DOM 17.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Rayo Vallecano",
+    "equipo_visitante": "Villarreal CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 37,
+    "fecha": "DOM 17.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Sociedad",
+    "equipo_visitante": "Valencia CF",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 37,
+    "fecha": "DOM 17.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Oviedo",
+    "equipo_visitante": "Deportivo Alavés",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 37,
+    "fecha": "DOM 17.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "CA Osasuna",
+    "equipo_visitante": "RCD Espanyol de Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 37,
+    "fecha": "DOM 17.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Sevilla FC",
+    "equipo_visitante": "Real Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 38,
+    "fecha": "DOM 24.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Deportivo Alavés",
+    "equipo_visitante": "Rayo Vallecano",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 38,
+    "fecha": "DOM 24.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Betis",
+    "equipo_visitante": "Levante UD",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 38,
+    "fecha": "DOM 24.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Celta",
+    "equipo_visitante": "Sevilla FC",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 38,
+    "fecha": "DOM 24.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "RCD Espanyol de Barcelona",
+    "equipo_visitante": "Real Sociedad",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 38,
+    "fecha": "DOM 24.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Getafe CF",
+    "equipo_visitante": "CA Osasuna",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 38,
+    "fecha": "DOM 24.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "RCD Mallorca",
+    "equipo_visitante": "Real Oviedo",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 38,
+    "fecha": "DOM 24.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Real Madrid",
+    "equipo_visitante": "Athletic Club",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 38,
+    "fecha": "DOM 24.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Villarreal CF",
+    "equipo_visitante": "Atlético de Madrid",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 38,
+    "fecha": "DOM 24.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Valencia CF",
+    "equipo_visitante": "FC Barcelona",
+    "goles_local": null,
+    "goles_visitante": null
+  },
+  {
+    "temporada": "2025-26",
+    "jornada": 38,
+    "fecha": "DOM 24.05.2026",
+    "hora": "-- : --",
+    "equipo_local": "Girona FC",
+    "equipo_visitante": "Elche CF",
+    "goles_local": null,
+    "goles_visitante": null
+  }
+]
